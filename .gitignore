@@ -1,0 +1,6 @@
+#filter some files
+*.out
+*.a
+*.exe
+
+ .vscode/ .git/
